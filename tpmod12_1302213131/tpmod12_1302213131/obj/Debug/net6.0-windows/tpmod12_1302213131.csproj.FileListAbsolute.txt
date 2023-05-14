@@ -1,0 +1,17 @@
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\bin\Debug\net6.0-windows\tpmod12_1302213131.exe
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\bin\Debug\net6.0-windows\tpmod12_1302213131.deps.json
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\bin\Debug\net6.0-windows\tpmod12_1302213131.runtimeconfig.json
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\bin\Debug\net6.0-windows\tpmod12_1302213131.dll
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\bin\Debug\net6.0-windows\tpmod12_1302213131.pdb
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.csproj.AssemblyReference.cache
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.Form1.resources
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.csproj.GenerateResource.cache
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.AssemblyInfoInputs.cache
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.AssemblyInfo.cs
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.csproj.CoreCompileInputs.cache
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.dll
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\refint\tpmod12_1302213131.dll
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.pdb
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\tpmod12_1302213131.genruntimeconfig.cache
+D:\GitHub\tpmodul12_1302213131\tpmod12_1302213131\tpmod12_1302213131\obj\Debug\net6.0-windows\ref\tpmod12_1302213131.dll
